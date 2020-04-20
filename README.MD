@@ -6,26 +6,25 @@ Email: [arnav7ishaan@gmail.com](mailto:arnav7ishaan@gmail.com) GitHub: [knightwa
 ### Birla Institute of Technology, Mesra Jharkhand, India
 
 ```
-B.E in Computer Science and Engineering, GPA: 8.14/10 Expected June 2020
+B.E in Computer Science and Engineering, GPA: 8.14/10   [July2016 – June 2020]
 ```
 ### Shiv Jyoti Senior Secondary School Kota, India
 
 ```
-XII Grade, CBSE Board Percentage: 95.4% April 2014 – March 2016
+XII Grade, CBSE Board Percentage: 95.4%         [April 2014 – March 2016]
 ```
 ### Atomic Energy Central School No. 4 Kota, India
-
-## X^ Grade;^ CBSE^ Board^ CGPA:^ 10.0^ March^2014
-
-(^)
+```
+## X Grade, CBSE Board CGPA: 10.0               [March, 2014]
+```
 
 ## EXPERIENCE
 
-### Samsung Research Institute, Bangalore, India January 2020 - Current
+### Samsung Research Institute, Bangalore, India
+[January 2020 - Current]
 
 ```
-Working as a Student Research Intern at Samsung Research and Development Institute, (SRI-B), at Bangalore India,
-on Carrier Aggregation in 4G signals.
+Working as a Student Research Intern at Samsung Research and Development Institute, (SRI-B), at Bangalore India, on Carrier Aggregation in 4G signals.
 ```
 ## PROJECTS
 
